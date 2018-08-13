@@ -36,6 +36,13 @@ $ mv .env.sample .env
 edit .env file. copy and paste your auth information.
 See [here](https://github.com/Shopify/slate/wiki/3.-Connect-to-your-store)
 
+
+### install project file
+```
+$ yarn install
+```
+
+
 ### you can edit theme
 ```
 $ yarn start
